@@ -1,3 +1,5 @@
 Git merge - merge 2 branches or a branch to main branch 
 
 git rebase - Pulls branches to main with main as focus.
+
+git checkout -b create and cheackout a new branch
